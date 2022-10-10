@@ -8,3 +8,6 @@ Ainsi, dans ce project, l'équipe des RH a recueilli de nombreuses données sur 
 
 L'équipe vous a fourni des données détaillées telles que l'implication au travail, le niveau d'éducation, la satisfaction au travail, évaluation de la performance, satisfaction relationnelle et équilibre travail-vie personnelle. En développant des modèles de prédiction précis qui pourraient prédire la rétention des employés, vous pourrions potentiellement faire économiser à l'entreprise.
 
+L'étude, la visualisation, l'exploration des données se faites étape par étape et tout est expliqué sur le fichier RHDep.ipynb ci-dessus. Et par la suite nous comparons les performances avec trois modeles differents
+
+Source des données : www.kaggle.com
